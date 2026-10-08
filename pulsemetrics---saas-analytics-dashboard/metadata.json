@@ -1,0 +1,6 @@
+{
+  "name": "PulseMetrics - SaaS Analytics Dashboard",
+  "description": "Production-grade SaaS analytics and telemetry platform featuring revenue metrics, cohort retention, acquisition channels, and customer health insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
